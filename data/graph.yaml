@@ -1,6 +1,6 @@
 path: ../datasets/graph_data
-train: images
-val: images
+train: data/images
+val: test_data/images
 
 names:
   0: 0
